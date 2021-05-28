@@ -1,0 +1,8 @@
+{
+  "name": "rust-helloworld",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "rust-lang.rust"
+  ],
+  "settings": {}
+}
